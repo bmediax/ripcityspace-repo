@@ -1,75 +1,75 @@
 Package: com.bmediax.ripcityspace
-Version: 0.2.12
+Version: 0.2.13
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), com.bmediax.ripcityspace-launcher, com.bmediax.ripcityspace-notifier, com.bmediax.ripcityspace-updater
-Filename: debs/com.bmediax.ripcityspace_0.2.12_iphoneos-arm64.deb
-Size: 244910
-MD5sum: 19a07f3bba8c5694ffe5c4d7dab220d6
-SHA1: 88d71e169b2b2e08c136bed10f4a3a6edce2e624
-SHA256: be0782c0d91c226a5b0048f05c3f468346afd2ccb6c05d4a94bcef811243d5a2
+Filename: debs/com.bmediax.ripcityspace_0.2.13_iphoneos-arm64.deb
+Size: 244912
+MD5sum: 66367881fe4a0194b23b8e463363c205
+SHA1: 675969521ff4ad20ad6a58d28981ac0db9cfdb56
+SHA256: 6bda1be645dcd4f86fe1a6de1689e612748679e07a1f68be0ae9374f434f613f
 Section: Utilities
 Description: Native Rip City Space dashboard app
 Author: bmediax
 Name: Rip City Space
 
 Package: com.bmediax.ripcityspace-debug
-Version: 0.2.12
+Version: 0.2.13
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.bmediax.ripcityspace-debug_0.2.12_iphoneos-arm64.deb
-Size: 6278
-MD5sum: e5b519e74f96d303ddf113d2c203997e
-SHA1: 3a486812890866cf13f012835cc84875923ae94c
-SHA256: 43b4c0c793144e1656588f5f69a7a5c5846db1a363926e90c3cb44665cc3f380
+Filename: debs/com.bmediax.ripcityspace-debug_0.2.13_iphoneos-arm64.deb
+Size: 6280
+MD5sum: 7eff6b42ff879f4645ee86c22672b9bf
+SHA1: fabc3c7c7ff5638ac68955a52b2d30160548a805
+SHA256: efc01b13245d100ed573135d23826b185060be7c83b82111f7113ef28b46fcc9
 Section: Utilities
 Description: Debug helper that takes screenshots and dumps classes over SSH
 Author: bmediax
 Name: Rip City Space Debug
 
 Package: com.bmediax.ripcityspace-launcher
-Version: 0.2.12
+Version: 0.2.13
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.bmediax.ripcityspace-launcher_0.2.12_iphoneos-arm64.deb
+Filename: debs/com.bmediax.ripcityspace-launcher_0.2.13_iphoneos-arm64.deb
 Size: 3442
-MD5sum: 1a30063a5d201b3276070298840e127a
-SHA1: 58a80e707c5eef0bb5d5c3bcc613a14d1050c889
-SHA256: d7204735addcf828f8216c6ae7893529e294e13c3c41fbbe8014ca8d8fdd41d8
+MD5sum: 21dcaff8d9b78a2b92f105905e952556
+SHA1: 1a52921d86bc25681a096011c3de75251fbf83ae
+SHA256: 5a9e7c0a4ab7f5363b342b105c2def7f7570b6f3fd672a297b3292b7ffc68e88
 Section: Utilities
 Description: Opens Rip City Space at boot and after a respring
 Author: bmediax
 Name: Rip City Space Launcher
 
 Package: com.bmediax.ripcityspace-notifier
-Version: 0.2.12
+Version: 0.2.13
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.bmediax.ripcityspace-notifier_0.2.12_iphoneos-arm64.deb
-Size: 8882
-MD5sum: 645fd3e12da1793a3088551a3a04369c
-SHA1: 606a3640b2514c786878f6d3a34848d363e9b543
-SHA256: 5560724abe2cc82880b5239de8b7a5598a5d4454f5a01cafa30cb5ef1ff55a8d
+Filename: debs/com.bmediax.ripcityspace-notifier_0.2.13_iphoneos-arm64.deb
+Size: 8886
+MD5sum: e9708bcfa35c00c1a2ac22eec65d2938
+SHA1: 68e893e5fd403cfe7795e7c38569517b8b3a2b36
+SHA256: b7a7039f875bd24814115ca3caeed633e039dd34577c0b1221100b7505d195e8
 Section: Utilities
 Description: Shows system banners requested by the app or over SSH
 Author: bmediax
 Name: Rip City Space Notifier
 
 Package: com.bmediax.ripcityspace-updater
-Version: 0.2.12
+Version: 0.2.13
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0)
-Filename: debs/com.bmediax.ripcityspace-updater_0.2.12_iphoneos-arm64.deb
-Size: 2404
-MD5sum: 605f60a5cacdbf7b37df80bd6ae7f6fe
-SHA1: b19c0656586fc8e0ab8b0804775e4f32537f7a32
-SHA256: 2c97de5066bf7a03f5a0c4000931a2f1aac87d584fd311e56b785712b5ba597a
+Filename: debs/com.bmediax.ripcityspace-updater_0.2.13_iphoneos-arm64.deb
+Size: 2406
+MD5sum: 8315abf8397d0275549159cf79fa28ca
+SHA1: a9e24c9b039237a8a1da1ef1aaae382538b0a4d8
+SHA256: f9a44c8218112b63e5097a491de6d4d588a35f67cb180e76c64dd734b2a3d8c8
 Section: Utilities
-Description: Checks the Rip City Space package repo every 30 minutes and installs updates
+Description: Checks the Rip City Space package repo every 10 minutes and installs updates
 Author: bmediax
 Name: Rip City Space Updater
 
