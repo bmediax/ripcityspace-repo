@@ -1,73 +1,73 @@
 Package: com.bmediax.ripcityspace
-Version: 0.2.13
+Version: 0.2.14
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), com.bmediax.ripcityspace-launcher, com.bmediax.ripcityspace-notifier, com.bmediax.ripcityspace-updater
-Filename: debs/com.bmediax.ripcityspace_0.2.13_iphoneos-arm64.deb
+Filename: debs/com.bmediax.ripcityspace_0.2.14_iphoneos-arm64.deb
 Size: 244912
-MD5sum: 66367881fe4a0194b23b8e463363c205
-SHA1: 675969521ff4ad20ad6a58d28981ac0db9cfdb56
-SHA256: 6bda1be645dcd4f86fe1a6de1689e612748679e07a1f68be0ae9374f434f613f
+MD5sum: d8d6716d975272736ae091a1b5716de6
+SHA1: 42ef4fe281057247394748d83c35e3b73906add1
+SHA256: 2b0abc40e70549eb106a7daefc0b6087456424d1cc7806ca79c197fcd05adf8f
 Section: Utilities
 Description: Native Rip City Space dashboard app
 Author: bmediax
 Name: Rip City Space
 
 Package: com.bmediax.ripcityspace-debug
-Version: 0.2.13
+Version: 0.2.14
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.bmediax.ripcityspace-debug_0.2.13_iphoneos-arm64.deb
-Size: 6280
-MD5sum: 7eff6b42ff879f4645ee86c22672b9bf
-SHA1: fabc3c7c7ff5638ac68955a52b2d30160548a805
-SHA256: efc01b13245d100ed573135d23826b185060be7c83b82111f7113ef28b46fcc9
+Filename: debs/com.bmediax.ripcityspace-debug_0.2.14_iphoneos-arm64.deb
+Size: 6274
+MD5sum: 7e4537a08717418a412783dd8f294ff4
+SHA1: 429fc66b707ffd420e37c48aa0ce2fa3c2e09d14
+SHA256: af900eafd7c23075984989d5cb96e9d65702e9696a416e578229b2e75055dc5f
 Section: Utilities
 Description: Debug helper that takes screenshots and dumps classes over SSH
 Author: bmediax
 Name: Rip City Space Debug
 
 Package: com.bmediax.ripcityspace-launcher
-Version: 0.2.13
+Version: 0.2.14
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.bmediax.ripcityspace-launcher_0.2.13_iphoneos-arm64.deb
-Size: 3442
-MD5sum: 21dcaff8d9b78a2b92f105905e952556
-SHA1: 1a52921d86bc25681a096011c3de75251fbf83ae
-SHA256: 5a9e7c0a4ab7f5363b342b105c2def7f7570b6f3fd672a297b3292b7ffc68e88
+Filename: debs/com.bmediax.ripcityspace-launcher_0.2.14_iphoneos-arm64.deb
+Size: 3438
+MD5sum: a34b0bf98c48365beb101bbae2e922a5
+SHA1: b71875fd32dad5dda7debcbe3a08951b04ff10b6
+SHA256: b8192fb8246735cd57ec33348af2b616269e65b629720ceea08f0f48024d6aa9
 Section: Utilities
 Description: Opens Rip City Space at boot and after a respring
 Author: bmediax
 Name: Rip City Space Launcher
 
 Package: com.bmediax.ripcityspace-notifier
-Version: 0.2.13
+Version: 0.2.14
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.bmediax.ripcityspace-notifier_0.2.13_iphoneos-arm64.deb
-Size: 8886
-MD5sum: e9708bcfa35c00c1a2ac22eec65d2938
-SHA1: 68e893e5fd403cfe7795e7c38569517b8b3a2b36
-SHA256: b7a7039f875bd24814115ca3caeed633e039dd34577c0b1221100b7505d195e8
+Filename: debs/com.bmediax.ripcityspace-notifier_0.2.14_iphoneos-arm64.deb
+Size: 8878
+MD5sum: 6f4dcb26a18a354bcbdf91c255c0e2b9
+SHA1: d7272b2f31190be6128007fde6a7f4cfc9c64e6c
+SHA256: 32ad0a423681ba7ff24b9eace0c390f952b446f63a287eeb39a40e2ed0a0fc21
 Section: Utilities
 Description: Shows system banners requested by the app or over SSH
 Author: bmediax
 Name: Rip City Space Notifier
 
 Package: com.bmediax.ripcityspace-updater
-Version: 0.2.13
+Version: 0.2.14
 Architecture: iphoneos-arm64
 Maintainer: bmediax
 Depends: firmware (>= 15.0)
-Filename: debs/com.bmediax.ripcityspace-updater_0.2.13_iphoneos-arm64.deb
-Size: 2406
-MD5sum: 8315abf8397d0275549159cf79fa28ca
-SHA1: a9e24c9b039237a8a1da1ef1aaae382538b0a4d8
-SHA256: f9a44c8218112b63e5097a491de6d4d588a35f67cb180e76c64dd734b2a3d8c8
+Filename: debs/com.bmediax.ripcityspace-updater_0.2.14_iphoneos-arm64.deb
+Size: 2556
+MD5sum: 49a1ede21115e1587804181f48ae55ed
+SHA1: 89d4879e96df3fc9cdb4b0caa4ad5c9fc40dcf99
+SHA256: f575ea1ee17854a00fa97768fda54f1d98b3fe90b13c3df2202264bdfb43774a
 Section: Utilities
 Description: Checks the Rip City Space package repo every 10 minutes and installs updates
 Author: bmediax
