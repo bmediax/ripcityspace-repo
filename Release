@@ -6,8 +6,8 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Rip City Space packages
-Date: Sat, 31 Oct 2026 05:31:40 UTC
+Date: Sat, 31 Oct 2026 05:54:42 UTC
 SHA256:
- 04a395d5f08ef61ed6dfef246894619ad4953bf3b596c41be11355c9f9c32bf5 2685 Packages
- 1b7db3ed769f7cb0b4d118e21878e1fead9a91cc012717c65d08066cbb3d2203 995 Packages.gz
- f7f785e8f5115182101605f020b551ab369eb6019a5c2f72a9ccd69fd44b434d 1093 Packages.bz2
+ 780edfc94d6a91a4266e87442a365f560bcbf4583e256556d87b78d63b1c9804 2685 Packages
+ e1b85f56233442f19e5360ed5608829d230ee69ab5d8d77390f881765e28f5a5 990 Packages.gz
+ 10cbf4196e8947592acc606abea7c5208df822918c4ffbb0766429e2c8d4f3df 1086 Packages.bz2
